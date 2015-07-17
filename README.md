@@ -2,4 +2,4 @@
 
 Compile as a .dll and inject in the mainmenu.
 
-Originally from [Willox](https://github.com/Snorflake/GMODLoadingUrlBlocker)
+Originally from (https://github.com/Snorflake/GMODLoadingUrlBlocker)[Willox]
